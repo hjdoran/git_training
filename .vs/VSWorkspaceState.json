@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\resources",
+    "\\tours"
   ],
+  "SelectedNode": "\\mission.html",
   "PreviewInSolutionExplorer": false
 }
